@@ -1,0 +1,2 @@
+# conversation_osumAI
+osumAIのconversation機能
